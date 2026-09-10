@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Large DEM files
+data/raw/dem_tiles/
+data/raw/dem.tif
+data/raw/temp_mosaic.tif
+
+# Processed raster files
+data/processed/*.tif
