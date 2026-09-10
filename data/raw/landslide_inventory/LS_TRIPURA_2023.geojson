@@ -1,0 +1,1664 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.1",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.47273418,
+                24.0047694
+              ],
+              [
+                91.47273418,
+                24.00528478
+              ],
+              [
+                91.47325501,
+                24.00528478
+              ],
+              [
+                91.47325501,
+                24.0047694
+              ],
+              [
+                91.47273418,
+                24.0047694
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/WT/78P08/2023/1",
+        "State": "Tripura",
+        "District": "West Tripura",
+        "Toposheet": "78P08",
+        "Latitude": 24.005,
+        "Longitude": 91.473,
+        "Length": 54.975,
+        "Width": 39.206,
+        "Height": 10,
+        "Area": 1737.58112704,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "SHALE, SILTSTONE AND MUDSTONE WITH SANDSTONE",
+        "LULC": "Semi- Evergreen Open Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.2",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.74858507,
+                24.07278367
+              ],
+              [
+                91.74858507,
+                24.07378805
+              ],
+              [
+                91.74930994,
+                24.07378805
+              ],
+              [
+                91.74930994,
+                24.07278367
+              ],
+              [
+                91.74858507,
+                24.07278367
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/KH/78P16/2023/1",
+        "State": "Tripura",
+        "District": "Khowai",
+        "Toposheet": "78P16",
+        "Latitude": 24.0734,
+        "Longitude": 91.749,
+        "Length": 113.994,
+        "Width": 67.761,
+        "Height": 17,
+        "Area": 5056.15950246,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SEQUENCE OF SANDY SHALE-SANDSTONE-MUDSTONE",
+        "LULC": "Semi- Evergreen Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.3",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.92596056,
+                24.09970511
+              ],
+              [
+                91.92596056,
+                24.1002751
+              ],
+              [
+                91.9265498,
+                24.1002751
+              ],
+              [
+                91.9265498,
+                24.09970511
+              ],
+              [
+                91.92596056,
+                24.09970511
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/DH/78P16/2023/2",
+        "State": "Tripura",
+        "District": "Dhalai",
+        "Toposheet": "78P16",
+        "Latitude": 24.1,
+        "Longitude": 91.9263,
+        "Length": 69.985,
+        "Width": 45.475,
+        "Height": 14,
+        "Area": 1966.1113619,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "RHYTHMIC ALTERNATION OF SILTSTONE/SHALE &SANDSTONE",
+        "LULC": "Deciduous Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.4",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.92207627,
+                24.09247859
+              ],
+              [
+                91.92207627,
+                24.09347665
+              ],
+              [
+                91.92367031,
+                24.09347665
+              ],
+              [
+                91.92367031,
+                24.09247859
+              ],
+              [
+                91.92207627,
+                24.09247859
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/DH/78P16/2023/3",
+        "State": "Tripura",
+        "District": "Dhalai",
+        "Toposheet": "78P16",
+        "Latitude": 24.0931,
+        "Longitude": 91.9228,
+        "Length": 181.811,
+        "Width": 64.773,
+        "Height": 64,
+        "Area": 7042.80205106,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "RHYTHMIC ALTERNATION OF SILTSTONE/SHALE &SANDSTONE",
+        "LULC": "Deciduous Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.5",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.92160289,
+                24.09079958
+              ],
+              [
+                91.92160289,
+                24.09187706
+              ],
+              [
+                91.92252532,
+                24.09187706
+              ],
+              [
+                91.92252532,
+                24.09079958
+              ],
+              [
+                91.92160289,
+                24.09079958
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/DH/78P16/2023/4",
+        "State": "Tripura",
+        "District": "Dhalai",
+        "Toposheet": "78P16",
+        "Latitude": 24.0913,
+        "Longitude": 91.9221,
+        "Length": 115.66,
+        "Width": 85.487,
+        "Height": 57,
+        "Area": 7534.60710547,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "RHYTHMIC ALTERNATION OF SILTSTONE/SHALE &SANDSTONE",
+        "LULC": "Deciduous Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.6",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.91311568,
+                24.1117726
+              ],
+              [
+                91.91311568,
+                24.11247283
+              ],
+              [
+                91.91403992,
+                24.11247283
+              ],
+              [
+                91.91403992,
+                24.1117726
+              ],
+              [
+                91.91311568,
+                24.1117726
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/DH/78P16/2023/5",
+        "State": "Tripura",
+        "District": "Dhalai",
+        "Toposheet": "78P16",
+        "Latitude": 24.1121,
+        "Longitude": 91.9136,
+        "Length": 104.849,
+        "Width": 57.991,
+        "Height": 44,
+        "Area": 4364.57771596,
+        "Activity": "Reactivate",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "RHYTHMIC ALTERNATION OF SILTSTONE/SHALE &SANDSTONE",
+        "LULC": "Deciduous Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.7",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.87778004,
+                24.10499021
+              ],
+              [
+                91.87778004,
+                24.10557896
+              ],
+              [
+                91.87809347,
+                24.10557896
+              ],
+              [
+                91.87809347,
+                24.10499021
+              ],
+              [
+                91.87778004,
+                24.10499021
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/DH/78P16/2023/6",
+        "State": "Tripura",
+        "District": "Dhalai",
+        "Toposheet": "78P16",
+        "Latitude": 24.1053,
+        "Longitude": 91.8779,
+        "Length": 65.262,
+        "Width": 30.039,
+        "Height": 11,
+        "Area": 1563.88146495,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "RHYTHMIC ALTERNATION OF SILTSTONE/SHALE &SANDSTONE",
+        "LULC": "Wasteland - Sparse Scrub Land",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.8",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.87230972,
+                24.1083273
+              ],
+              [
+                91.87230972,
+                24.10987701
+              ],
+              [
+                91.87411523,
+                24.10987701
+              ],
+              [
+                91.87411523,
+                24.1083273
+              ],
+              [
+                91.87230972,
+                24.1083273
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/DH/78P16/2023/7",
+        "State": "Tripura",
+        "District": "Dhalai",
+        "Toposheet": "78P16",
+        "Latitude": 24.1091,
+        "Longitude": 91.8732,
+        "Length": 185.389,
+        "Width": 161.236,
+        "Height": 36,
+        "Area": 14728.8437896,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "FERRUGINOUS SANDSTONE WITH SILTSTONE AND CLAY",
+        "LULC": "Deciduous Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.9",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.55195009,
+                23.93104136
+              ],
+              [
+                91.55195009,
+                23.93180703
+              ],
+              [
+                91.5525599,
+                23.93180703
+              ],
+              [
+                91.5525599,
+                23.93104136
+              ],
+              [
+                91.55195009,
+                23.93104136
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/KH/79M09/2023/1",
+        "State": "Tripura",
+        "District": "Khowai",
+        "Toposheet": "79M09",
+        "Latitude": 23.9314,
+        "Longitude": 91.5522,
+        "Length": 85.293,
+        "Width": 51.372,
+        "Height": 16,
+        "Area": 2899.92440994,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "SHALE, SILTSTONE AND MUDSTONE WITH SANDSTONE",
+        "LULC": "Evergreen Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.10",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.52470329,
+                23.87040483
+              ],
+              [
+                91.52470329,
+                23.87110081
+              ],
+              [
+                91.52532974,
+                23.87110081
+              ],
+              [
+                91.52532974,
+                23.87040483
+              ],
+              [
+                91.52470329,
+                23.87040483
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/WT/79M09/2023/2",
+        "State": "Tripura",
+        "District": "West Tripura",
+        "Toposheet": "79M09",
+        "Latitude": 23.8707,
+        "Longitude": 91.525,
+        "Length": 92.396,
+        "Width": 34.738,
+        "Height": 15,
+        "Area": 2398.18194864,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "SHALE, SILTSTONE AND MUDSTONE WITH SANDSTONE",
+        "LULC": "Semi- Evergreen Open Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.11",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.52586516,
+                23.82992426
+              ],
+              [
+                91.52586516,
+                23.83015845
+              ],
+              [
+                91.52624534,
+                23.83015845
+              ],
+              [
+                91.52624534,
+                23.82992426
+              ],
+              [
+                91.52586516,
+                23.82992426
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/WT/79M09/2023/3",
+        "State": "Tripura",
+        "District": "West Tripura",
+        "Toposheet": "79M09",
+        "Latitude": 23.83,
+        "Longitude": 91.526,
+        "Length": 38.64,
+        "Width": 24.543,
+        "Height": 19,
+        "Area": 700.703109406,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "SHALE, SILTSTONE AND MUDSTONE WITH SANDSTONE",
+        "LULC": "Built Up - Rural Mixed Village Settlement",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.12",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.55085149,
+                23.93228423
+              ],
+              [
+                91.55085149,
+                23.93265028
+              ],
+              [
+                91.55140198,
+                23.93265028
+              ],
+              [
+                91.55140198,
+                23.93228423
+              ],
+              [
+                91.55085149,
+                23.93228423
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/KH/79M09/2023/4",
+        "State": "Tripura",
+        "District": "Khowai",
+        "Toposheet": "79M09",
+        "Latitude": 23.9325,
+        "Longitude": 91.5511,
+        "Length": 59.625,
+        "Width": 29.991,
+        "Height": 22,
+        "Area": 1183.17748723,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "SHALE, SILTSTONE AND MUDSTONE WITH SANDSTONE",
+        "LULC": "Evergreen Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.13",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.55357214,
+                23.92934127
+              ],
+              [
+                91.55357214,
+                23.93008703
+              ],
+              [
+                91.55410201,
+                23.93008703
+              ],
+              [
+                91.55410201,
+                23.92934127
+              ],
+              [
+                91.55357214,
+                23.92934127
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/KH/79M09/2023/5",
+        "State": "Tripura",
+        "District": "Khowai",
+        "Toposheet": "79M09",
+        "Latitude": 23.9298,
+        "Longitude": 91.5538,
+        "Length": 72.667,
+        "Width": 54.686,
+        "Height": 39,
+        "Area": 2199.89964029,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "SHALE, SILTSTONE AND MUDSTONE WITH SANDSTONE",
+        "LULC": "Evergreen Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.14",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.57072781,
+                23.71127406
+              ],
+              [
+                91.57072781,
+                23.71189808
+              ],
+              [
+                91.57113638,
+                23.71189808
+              ],
+              [
+                91.57113638,
+                23.71127406
+              ],
+              [
+                91.57072781,
+                23.71127406
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/SP/79M10/2023/1",
+        "State": "Tripura",
+        "District": "Sepahijala",
+        "Toposheet": "79M10",
+        "Latitude": 23.7116,
+        "Longitude": 91.5709,
+        "Length": 73.192,
+        "Width": 36.001,
+        "Height": 20,
+        "Area": 1858.91860901,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "SHALE, SILTSTONE AND MUDSTONE WITH SANDSTONE",
+        "LULC": "Semi- Evergreen Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.15",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.7458508,
+                23.54531006
+              ],
+              [
+                91.7458508,
+                23.54555178
+              ],
+              [
+                91.7460869,
+                23.54555178
+              ],
+              [
+                91.7460869,
+                23.54531006
+              ],
+              [
+                91.7458508,
+                23.54531006
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/GM/79M10/2023/2",
+        "State": "Tripura",
+        "District": "Gomati",
+        "Toposheet": "79M10",
+        "Latitude": 23.5454,
+        "Longitude": 91.746,
+        "Length": 29.92,
+        "Width": 20.32,
+        "Height": 6,
+        "Area": 407.596044054,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SEQUENCE OF SANDY SHALE-SANDSTONE-MUDSTONE",
+        "LULC": "Semi- Evergreen Open Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.16",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.65651059,
+                23.46440458
+              ],
+              [
+                91.65651059,
+                23.46473857
+              ],
+              [
+                91.65680318,
+                23.46473857
+              ],
+              [
+                91.65680318,
+                23.46440458
+              ],
+              [
+                91.65651059,
+                23.46440458
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/GM/79M11/2023/1",
+        "State": "Tripura",
+        "District": "Gomati",
+        "Toposheet": "79M11",
+        "Latitude": 23.4646,
+        "Longitude": 91.6567,
+        "Length": 35.128,
+        "Width": 30.567,
+        "Height": 18,
+        "Area": 857.259793011,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "FERRUGINOUS SANDSTONE WITH SILTSTONE AND CLAY",
+        "LULC": "Semi- Evergreen Open Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.17",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.66829598,
+                23.42962312
+              ],
+              [
+                91.66829598,
+                23.43094063
+              ],
+              [
+                91.6693979,
+                23.43094063
+              ],
+              [
+                91.6693979,
+                23.42962312
+              ],
+              [
+                91.66829598,
+                23.42962312
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/GM/79M11/2023/2",
+        "State": "Tripura",
+        "District": "Gomati",
+        "Toposheet": "79M11",
+        "Latitude": 23.4303,
+        "Longitude": 91.6688,
+        "Length": 129.912,
+        "Width": 99.465,
+        "Height": 15,
+        "Area": 9184.82502338,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "FERRUGINOUS SANDSTONE WITH SILTSTONE AND CLAY",
+        "LULC": "Semi- Evergreen Open Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.18",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.55140142,
+                23.49860611
+              ],
+              [
+                91.55140142,
+                23.49939755
+              ],
+              [
+                91.55248274,
+                23.49939755
+              ],
+              [
+                91.55248274,
+                23.49860611
+              ],
+              [
+                91.55140142,
+                23.49860611
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/GM/79M11/2023/3",
+        "State": "Tripura",
+        "District": "Gomati",
+        "Toposheet": "79M11",
+        "Latitude": 23.499,
+        "Longitude": 91.552,
+        "Length": 109.478,
+        "Width": 85.624,
+        "Height": 21,
+        "Area": 6684.03591988,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "SHALE, SILTSTONE AND MUDSTONE WITH SANDSTONE",
+        "LULC": "Semi- Evergreen Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.22",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.80989277,
+                23.88832156
+              ],
+              [
+                91.80989277,
+                23.8886488
+              ],
+              [
+                91.81049518,
+                23.8886488
+              ],
+              [
+                91.81049518,
+                23.88832156
+              ],
+              [
+                91.80989277,
+                23.88832156
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/DH/79M13/2023/1",
+        "State": "Tripura",
+        "District": "Dhalai",
+        "Toposheet": "79M13",
+        "Latitude": 23.8885,
+        "Longitude": 91.8102,
+        "Length": 61.343,
+        "Width": 36.153,
+        "Height": 48,
+        "Area": 1419.92556322,
+        "Activity": "Reactivate",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "FERRUGINOUS SANDSTONE WITH SILTSTONE AND CLAY",
+        "LULC": "Semi- Evergreen Open Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.23",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.75811462,
+                23.90078454
+              ],
+              [
+                91.75811462,
+                23.90136845
+              ],
+              [
+                91.75920437,
+                23.90136845
+              ],
+              [
+                91.75920437,
+                23.90078454
+              ],
+              [
+                91.75811462,
+                23.90078454
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/KH/79M13/2023/2",
+        "State": "Tripura",
+        "District": "Khowai",
+        "Toposheet": "79M13",
+        "Latitude": 23.9011,
+        "Longitude": 91.7586,
+        "Length": 117.22,
+        "Width": 45.964,
+        "Height": 33,
+        "Area": 3495.45811695,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SANDSTONE, SHALE, SILTSTONE AND CONGLOMERATE",
+        "LULC": "Semi- Evergreen Open Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.24",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.74814008,
+                23.56991629
+              ],
+              [
+                91.74814008,
+                23.5707083
+              ],
+              [
+                91.7485957,
+                23.5707083
+              ],
+              [
+                91.7485957,
+                23.56991629
+              ],
+              [
+                91.74814008,
+                23.56991629
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/DH/79M14/2023/1",
+        "State": "Tripura",
+        "District": "Dhalai",
+        "Toposheet": "79M14",
+        "Latitude": 23.5703,
+        "Longitude": 91.7483,
+        "Length": 92.514,
+        "Width": 33.827,
+        "Height": 39,
+        "Area": 1794.82286953,
+        "Activity": "Reactivate",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SEQUENCE OF SANDY SHALE-SANDSTONE-MUDSTONE",
+        "LULC": "Semi- Evergreen Open Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.25",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.78420037,
+                23.41512623
+              ],
+              [
+                91.78420037,
+                23.41559919
+              ],
+              [
+                91.78458746,
+                23.41559919
+              ],
+              [
+                91.78458746,
+                23.41512623
+              ],
+              [
+                91.78420037,
+                23.41512623
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/GM/79M15/2023/1",
+        "State": "Tripura",
+        "District": "Gomati",
+        "Toposheet": "79M15",
+        "Latitude": 23.4154,
+        "Longitude": 91.7844,
+        "Length": 54.849,
+        "Width": 32.202,
+        "Height": 17,
+        "Area": 1341.18495129,
+        "Activity": "Reactivate",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SEQUENCE OF SANDY SHALE-SANDSTONE-MUDSTONE",
+        "LULC": "Semi- Evergreen Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.26",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.79623922,
+                23.41654375
+              ],
+              [
+                91.79623922,
+                23.41694025
+              ],
+              [
+                91.79662859,
+                23.41694025
+              ],
+              [
+                91.79662859,
+                23.41654375
+              ],
+              [
+                91.79623922,
+                23.41654375
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/GM/79M15/2023/2",
+        "State": "Tripura",
+        "District": "Gomati",
+        "Toposheet": "79M15",
+        "Latitude": 23.4168,
+        "Longitude": 91.7964,
+        "Length": 49.518,
+        "Width": 30.65,
+        "Height": 8,
+        "Area": 1108.06447276,
+        "Activity": "Reactivate",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SEQUENCE OF SANDY SHALE-SANDSTONE-MUDSTONE",
+        "LULC": "Semi- Evergreen Open Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.27",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.79684301,
+                23.41572473
+              ],
+              [
+                91.79684301,
+                23.41633564
+              ],
+              [
+                91.7971569,
+                23.41633564
+              ],
+              [
+                91.7971569,
+                23.41572473
+              ],
+              [
+                91.79684301,
+                23.41572473
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/GM/79M15/2023/3",
+        "State": "Tripura",
+        "District": "Gomati",
+        "Toposheet": "79M15",
+        "Latitude": 23.416,
+        "Longitude": 91.797,
+        "Length": 71.234,
+        "Width": 23.171,
+        "Height": 39,
+        "Area": 1188.15210365,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SEQUENCE OF SANDY SHALE-SANDSTONE-MUDSTONE",
+        "LULC": "Built Up - Rural Mixed Village Settlement",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.28",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.82081263,
+                23.426171
+              ],
+              [
+                91.82081263,
+                23.42647355
+              ],
+              [
+                91.82135986,
+                23.42647355
+              ],
+              [
+                91.82135986,
+                23.426171
+              ],
+              [
+                91.82081263,
+                23.426171
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/GM/79M15/2023/4",
+        "State": "Tripura",
+        "District": "Gomati",
+        "Toposheet": "79M15",
+        "Latitude": 23.4263,
+        "Longitude": 91.8211,
+        "Length": 57.29,
+        "Width": 26.132,
+        "Height": 12,
+        "Area": 1204.21825603,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "SEQUENCE OF SANDY SHALE-SANDSTONE-MUDSTONE",
+        "LULC": "Semi- Evergreen Open Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.29",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                92.07595384,
+                24.36886757
+              ],
+              [
+                92.07595384,
+                24.36936397
+              ],
+              [
+                92.07666557,
+                24.36936397
+              ],
+              [
+                92.07666557,
+                24.36886757
+              ],
+              [
+                92.07595384,
+                24.36886757
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/UN/83D03/2023/1",
+        "State": "Tripura",
+        "District": "Unakoti",
+        "Toposheet": "83D03",
+        "Latitude": 24.3691,
+        "Longitude": 92.0763,
+        "Length": 79.781,
+        "Width": 45.502,
+        "Height": 15,
+        "Area": 2540.41550806,
+        "Activity": "Reactivate",
+        "Geomorphol": "Structural Hill Highly Dissected-SHH",
+        "Lithology": "SHALE-SILTSTONE SEQUENCE WITH SANDSTONE",
+        "LULC": "Semi- Evergreen Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.30",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                92.09598208,
+                24.07695267
+              ],
+              [
+                92.09598208,
+                24.07736761
+              ],
+              [
+                92.09638082,
+                24.07736761
+              ],
+              [
+                92.09638082,
+                24.07695267
+              ],
+              [
+                92.09598208,
+                24.07695267
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/UN/83D04/2023/1",
+        "State": "Tripura",
+        "District": "Unakoti",
+        "Toposheet": "83D04",
+        "Latitude": 24.0772,
+        "Longitude": 92.0962,
+        "Length": 54.6,
+        "Width": 29.134,
+        "Height": 10,
+        "Area": 1038.58447886,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SHALE,SILTSTONE,MUDSTONE,SANDSTONE WITH MINOR COAL",
+        "LULC": "Wasteland - Dense Scrub Land",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.31",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                92.12579023,
+                24.055201
+              ],
+              [
+                92.12579023,
+                24.05578077
+              ],
+              [
+                92.12602311,
+                24.05578077
+              ],
+              [
+                92.12602311,
+                24.055201
+              ],
+              [
+                92.12579023,
+                24.055201
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/NT/83D04/2023/2",
+        "State": "Tripura",
+        "District": "North Tripura",
+        "Toposheet": "83D04",
+        "Latitude": 24.0555,
+        "Longitude": 92.1259,
+        "Length": 64.379,
+        "Width": 22.233,
+        "Height": 11,
+        "Area": 1009.26376406,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SHALE,SILTSTONE,MUDSTONE,SANDSTONE WITH MINOR COAL",
+        "LULC": "Agriculture - Plantation",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.32",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                92.16304542,
+                24.05047831
+              ],
+              [
+                92.16304542,
+                24.05091582
+              ],
+              [
+                92.16353336,
+                24.05091582
+              ],
+              [
+                92.16353336,
+                24.05047831
+              ],
+              [
+                92.16304542,
+                24.05047831
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/NT/83D04/2023/3",
+        "State": "Tripura",
+        "District": "North Tripura",
+        "Toposheet": "83D04",
+        "Latitude": 24.0507,
+        "Longitude": 92.1633,
+        "Length": 48.836,
+        "Width": 45.988,
+        "Height": 16,
+        "Area": 1746.80959795,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SHALE,SILTSTONE,MUDSTONE,SANDSTONE WITH MINOR COAL",
+        "LULC": "Others - Shifting Cultivation",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LS_TRIPURA_2023.33",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                92.16443182,
+                24.02312451
+              ],
+              [
+                92.16443182,
+                24.02354913
+              ],
+              [
+                92.16472274,
+                24.02354913
+              ],
+              [
+                92.16472274,
+                24.02312451
+              ],
+              [
+                92.16443182,
+                24.02312451
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "SlideNo": "TR/NT/83D04/2023/4",
+        "State": "Tripura",
+        "District": "North Tripura",
+        "Toposheet": "83D04",
+        "Latitude": 24.0234,
+        "Longitude": 92.1646,
+        "Length": 49.019,
+        "Width": 26.899,
+        "Height": 30,
+        "Area": 1036.30978372,
+        "Activity": "Active",
+        "Geomorphol": "Structural Hill Moderately Dissected-SHM",
+        "Lithology": "SHALE,SILTSTONE,MUDSTONE,SANDSTONE WITH MINOR COAL",
+        "LULC": "Semi- Evergreen Closed Forest",
+        "Triggering": "Rainfall",
+        "Year": "2023",
+        "Basin": "Barak and others Basin",
+        "Sub_Basin": "Naoch chara and others",
+        "Source": "RESOURCSSAT-2A, LISS-IV, 10M CARTODEM,RGDW 50K,LULC 50K(2016-19) & INDIA-WRS"
+      }
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 30,
+  "timeStamp": "2026-09-09T15:39:13.012Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}
